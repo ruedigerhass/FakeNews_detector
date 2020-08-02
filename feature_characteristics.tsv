@@ -1,0 +1,105 @@
+number_of_words...............	docs	max	min	mode	mean
+mixture of true and false.....	212	0	0	[(0, 212)]	0.0
+mostly false..................	87	0	0	[(0, 87)]	0.0
+no factual content............	64	0	0	[(0, 64)]	0.0
+mostly true...................	1264	0	0	[(0, 1264)]	0.0
+
+
+number_of_unique_words........	docs	max	min	mode	mean
+mixture of true and false.....	212	0	0	[(0, 212)]	0.0
+mostly false..................	87	0	0	[(0, 87)]	0.0
+no factual content............	64	0	0	[(0, 64)]	0.0
+mostly true...................	1264	0	0	[(0, 1264)]	0.0
+
+
+number_of_sentences...........	docs	max	min	mode	mean
+mixture of true and false.....	212	0	0	[(0, 212)]	0.0
+mostly false..................	87	0	0	[(0, 87)]	0.0
+no factual content............	64	0	0	[(0, 64)]	0.0
+mostly true...................	1264	0	0	[(0, 1264)]	0.0
+
+
+number_of_long_words..........	docs	max	min	mode	mean
+mixture of true and false.....	212	0	0	[(0, 212)]	0.0
+mostly false..................	87	0	0	[(0, 87)]	0.0
+no factual content............	64	0	0	[(0, 64)]	0.0
+mostly true...................	1264	0	0	[(0, 1264)]	0.0
+
+
+number_of_monosyllable_words..	docs	max	min	mode	mean
+mixture of true and false.....	212	0	0	[(0, 212)]	0.0
+mostly false..................	87	0	0	[(0, 87)]	0.0
+no factual content............	64	0	0	[(0, 64)]	0.0
+mostly true...................	1264	0	0	[(0, 1264)]	0.0
+
+
+number_of_polsyllable_words...	docs	max	min	mode	mean
+mixture of true and false.....	212	0	0	[(0, 212)]	0.0
+mostly false..................	87	0	0	[(0, 87)]	0.0
+no factual content............	64	0	0	[(0, 64)]	0.0
+mostly true...................	1264	0	0	[(0, 1264)]	0.0
+
+
+average_number_of_syllables...	docs	max	min	mode	mean
+mixture of true and false.....	212	0	0	[(0, 212)]	0.0
+mostly false..................	87	0	0	[(0, 87)]	0.0
+no factual content............	64	0	0	[(0, 64)]	0.0
+mostly true...................	1264	0	0	[(0, 1264)]	0.0
+
+
+flesch_readability_ease.......	docs	max	min	mode	mean
+mixture of true and false.....	212	0	0	[(0, 212)]	0.0
+mostly false..................	87	0	0	[(0, 87)]	0.0
+no factual content............	64	0	0	[(0, 64)]	0.0
+mostly true...................	1264	0	0	[(0, 1264)]	0.0
+
+
+first_person_pronouns.........	docs	max	min	mode	mean
+mixture of true and false.....	212	0	0	[(0, 212)]	0.0
+mostly false..................	87	0	0	[(0, 87)]	0.0
+no factual content............	64	0	0	[(0, 64)]	0.0
+mostly true...................	1264	0	0	[(0, 1264)]	0.0
+
+
+second_person_pronouns........	docs	max	min	mode	mean
+mixture of true and false.....	212	0	0	[(0, 212)]	0.0
+mostly false..................	87	0	0	[(0, 87)]	0.0
+no factual content............	64	0	0	[(0, 64)]	0.0
+mostly true...................	1264	0	0	[(0, 1264)]	0.0
+
+
+third_person_pronouns.........	docs	max	min	mode	mean
+mixture of true and false.....	212	0	0	[(0, 212)]	0.0
+mostly false..................	87	0	0	[(0, 87)]	0.0
+no factual content............	64	0	0	[(0, 64)]	0.0
+mostly true...................	1264	0	0	[(0, 1264)]	0.0
+
+
+conjunction_count.............	docs	max	min	mode	mean
+mixture of true and false.....	212	0	0	[(0, 212)]	0.0
+mostly false..................	87	0	0	[(0, 87)]	0.0
+no factual content............	64	0	0	[(0, 64)]	0.0
+mostly true...................	1264	0	0	[(0, 1264)]	0.0
+
+
+modal_verb_count..............	docs	max	min	mode	mean
+mixture of true and false.....	212	0	0	[(0, 212)]	0.0
+mostly false..................	87	0	0	[(0, 87)]	0.0
+no factual content............	64	0	0	[(0, 64)]	0.0
+mostly true...................	1264	0	0	[(0, 1264)]	0.0
+
+
+number_of_hedge_words.........	docs	max	min	mode	mean
+mixture of true and false.....	212	0	0	[(0, 212)]	0.0
+mostly false..................	87	0	0	[(0, 87)]	0.0
+no factual content............	64	0	0	[(0, 64)]	0.0
+mostly true...................	1264	0	0	[(0, 1264)]	0.0
+
+
+number_of_weasel_words........	docs	max	min	mode	mean
+mixture of true and false.....	212	0	0	[(0, 212)]	0.0
+mostly false..................	87	0	0	[(0, 87)]	0.0
+no factual content............	64	0	0	[(0, 64)]	0.0
+mostly true...................	1264	0	0	[(0, 1264)]	0.0
+
+
